@@ -1,0 +1,10 @@
+C:\Users\Bigbr\OneDrive\Documents\GitHub\Zork1\Tutorial2-TimedMath\Tutorial2-TimedMath\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Bigbr\OneDrive\Documents\GitHub\Zork1\Tutorial2-TimedMath\Tutorial2-TimedMath\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Bigbr\OneDrive\Documents\GitHub\Zork1\Tutorial2-TimedMath\Tutorial2-TimedMath\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Bigbr\OneDrive\Documents\GitHub\Zork1\Tutorial2-TimedMath\Tutorial2-TimedMath\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\Bigbr\OneDrive\Documents\GitHub\Zork1\Tutorial2-TimedMath\Tutorial2-TimedMath\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Bigbr\OneDrive\Documents\GitHub\Zork1\Tutorial2-TimedMath\Tutorial2-TimedMath\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Bigbr\OneDrive\Documents\GitHub\Zork1\Tutorial2-TimedMath\Tutorial2-TimedMath\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Bigbr\OneDrive\Documents\GitHub\Zork1\Tutorial2-TimedMath\Tutorial2-TimedMath\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Bigbr\OneDrive\Documents\GitHub\Zork1\Tutorial2-TimedMath\Tutorial2-TimedMath\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Bigbr\OneDrive\Documents\GitHub\Zork1\Tutorial2-TimedMath\Tutorial2-TimedMath\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
